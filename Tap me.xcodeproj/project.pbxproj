@@ -193,6 +193,8 @@
 				TargetAttributes = {
 					259E597F1D17CDD4000BB7BA = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = TK5LXBWH8Z;
+						DevelopmentTeamName = "chen pohsun (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 					259E59931D17CDD5000BB7BA = {
